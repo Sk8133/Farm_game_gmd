@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Subway Surfers Inspired Game
 
 A Unity endless runner game inspired by Subway Surfers. The player runs forward, avoids obstacles, collects items, and tries to survive as long as possible while moving through a 3D environment.
@@ -148,3 +149,6 @@ Created as a Unity game development project.
 ## License
 
 This project is for educational purposes.
+=======
+# Farm_game_gmd
+>>>>>>> 2395e0e311f12b0d6acb2eb645588a43da76e17e
